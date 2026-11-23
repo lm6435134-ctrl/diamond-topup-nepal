@@ -1,0 +1,6 @@
+{
+  "name":"diamond-topup-nepal","version":"1.0.0","private":true,
+  "scripts":{"dev":"next dev","build":"next build","start":"next start","seed:packages":"node scripts/seed-packages.mjs"},
+  "dependencies":{"next":"14.2.30","react":"18.3.1","react-dom":"18.3.1","firebase":"^11.0.0","firebase-admin":"^13.0.0"},
+  "devDependencies":{"typescript":"5.7.3","@types/node":"22.10.2","@types/react":"18.3.18","@types/react-dom":"18.3.5"}
+}

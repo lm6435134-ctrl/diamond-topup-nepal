@@ -1,0 +1,111 @@
+[
+  {
+    "id": "50_diamonds",
+    "name": "50 Diamonds",
+    "category": "diamonds",
+    "diamonds": 50,
+    "priceNpr": 60,
+    "active": true
+  },
+  {
+    "id": "115_diamonds",
+    "name": "115 Diamonds",
+    "category": "diamonds",
+    "diamonds": 115,
+    "priceNpr": 110,
+    "active": true
+  },
+  {
+    "id": "240_diamonds",
+    "name": "240 Diamonds",
+    "category": "diamonds",
+    "diamonds": 240,
+    "priceNpr": 220,
+    "active": true
+  },
+  {
+    "id": "480_diamonds",
+    "name": "480 Diamonds",
+    "category": "diamonds",
+    "diamonds": 480,
+    "priceNpr": 440,
+    "active": true
+  },
+  {
+    "id": "610_diamonds",
+    "name": "610 Diamonds",
+    "category": "diamonds",
+    "diamonds": 610,
+    "priceNpr": 560,
+    "active": true
+  },
+  {
+    "id": "850_diamonds",
+    "name": "850 Diamonds",
+    "category": "diamonds",
+    "diamonds": 850,
+    "priceNpr": 755,
+    "active": true
+  },
+  {
+    "id": "1240_diamonds",
+    "name": "1,240 Diamonds",
+    "category": "diamonds",
+    "diamonds": 1240,
+    "priceNpr": 1100,
+    "active": true
+  },
+  {
+    "id": "1830_diamonds",
+    "name": "1,830 Diamonds",
+    "category": "diamonds",
+    "diamonds": 1830,
+    "priceNpr": 1610,
+    "active": true
+  },
+  {
+    "id": "2530_diamonds",
+    "name": "2,530 Diamonds",
+    "category": "diamonds",
+    "diamonds": 2530,
+    "priceNpr": 2140,
+    "active": true
+  },
+  {
+    "id": "5060_diamonds",
+    "name": "5,060 Diamonds",
+    "category": "diamonds",
+    "diamonds": 5060,
+    "priceNpr": 4200,
+    "active": true
+  },
+  {
+    "id": "10120_diamonds",
+    "name": "10,120 Diamonds",
+    "category": "diamonds",
+    "diamonds": 10120,
+    "priceNpr": 8220,
+    "active": true
+  },
+  {
+    "id": "weekly_membership",
+    "name": "Weekly Membership",
+    "category": "membership",
+    "priceNpr": 250,
+    "active": true
+  },
+  {
+    "id": "monthly_membership",
+    "name": "Monthly Membership",
+    "category": "membership",
+    "priceNpr": 1050,
+    "active": true
+  },
+  {
+    "id": "level_up_pass",
+    "name": "Level Up Pass",
+    "category": "pass",
+    "priceNpr": 650,
+    "active": true
+  }
+]
